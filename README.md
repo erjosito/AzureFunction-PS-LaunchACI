@@ -1,6 +1,6 @@
-# Image Resize Function
+# Powershell Function to launch Azure Container Instance from an Azure Container Registry
 
-The easiest way to resize images stored in Blob Storage (on Azure); uses [ImageSharp](https://github.com/SixLabors/ImageSharp)
+To launch ACIs in Azure
 
 ## Quick Deploy to Azure
 
