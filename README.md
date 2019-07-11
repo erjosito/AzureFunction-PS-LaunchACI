@@ -40,4 +40,4 @@ Example of a JSON body that can be used in a post:
 
 ## Running Locally
 
-Visual Studio function app project is included. To run locally, create an `appsettings.json` file in the root of the function app. There is a sample included.
+Visual Studio function app project is included.
